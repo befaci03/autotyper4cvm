@@ -14,7 +14,7 @@ Screenshot
 
 ![alt screenshot](3.png)
 
-<a href="download.png" download="autotyper.user.js">
+    <a href="autotyper.user.js"><img src="download.png" style="width: 50%"></a>
 
 ## browser extension
 ### device
