@@ -9,6 +9,7 @@ type long text easy
 
 
 Screenshot
-![alt screenshot](test)
 
-![alt screenshot](test)
+![alt screenshot](2.png)
+
+![alt screenshot](3.png)
