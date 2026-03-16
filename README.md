@@ -14,7 +14,7 @@ Screenshot
 
 ![alt screenshot](3.png)
 
-<h1>windows</h1>
+<h1>download</h1>
   <div class="card">
     <a href="autotyper.user.js"><img src="download.png" style="width: 50%"></a>
 
