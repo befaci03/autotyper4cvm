@@ -19,10 +19,13 @@ Screenshot
 ## browser extension
 ### device
 firefox for windows/mac/linux
+
 firefox for Android
+
 chrome or chromium other
 
 List
+
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd
