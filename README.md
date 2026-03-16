@@ -19,7 +19,7 @@ Screenshot
     <a href="autotyper.user.js"><img src="download.png" style="width: 50%"></a>
 
 ## browser extension
-### device
+
 firefox for windows/mac/linux
 
 firefox for Android
