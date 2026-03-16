@@ -1,6 +1,6 @@
 # Autotyper for CollabVM
 
-![alt screenshot](test)
+![alt screenshot](1.png)
 
 ## Autotyper
 ### CollabVM on Autotyper Easy:
