@@ -1,22 +1,19 @@
 // ==UserScript==
 // @name         CollabVM Autotyper
 // @namespace    http://github.com/befaci03/autotyper4cvm
-// @version      2025-05-25
+// @version      2026-06-27.1
 // @description  type long text easily
-// @author       guest82644
+// @author       Befaci
+// @match        http://localhost:1234
 // @match        *://computernewb.com/collab-vm/*
+// @match        *://computernewb.com/~dark/cvm12-audio/*
 // @match        *://test.crustywindo.ws/slots/*
 // @match        *://befacivm.us.to/*
 // @match        *://cvmbeta.befacivm.us.to/*
 // @match        *://collab.woozy.eu.org
-// @match        *://*.collabvm.org
-// @match        *://vm.toroking.top
-// @match        http://localhost:1234
 // @match        *://stinkyvm.loophole.site
-// @match        *://bore.pub/*
 // @match        *://guh.alwaysdata.net/*
 // @match        *://collab.woozy.eu.org/*
-// @match        *://creeper.befacivm.us.to/*
 // @match        *://computer.antilunex.qzz.io/*
 // @match        *://collabvm.pvabel.net/*
 // @match        *://collabvm.shijimanet.com/*
@@ -24,7 +21,6 @@
 // @match        *://nvme.site/*
 // @match        *://poteto.befacivm.us.to/*
 // @match        *://winadamvm.qzz.io/*
-// @match        *://sevm.pl/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=computernewb.com
 // @grant        none
 // ==/UserScript==
